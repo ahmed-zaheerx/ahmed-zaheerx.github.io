@@ -16,16 +16,6 @@ body,html {
   width: 100%;
 }
 
-body {
-  display: flex;
-  height: 100vh;
-  flex-direction: column;
-  justify-content: space-around;
-  max-width: 1440px;
-  margin: 0 auto;
-  background-color: #fff;
-}
-
 .nav {
   display: flex;
   align-items: center;
